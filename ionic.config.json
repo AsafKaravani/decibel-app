@@ -1,6 +1,8 @@
 {
   "name": "decibel-app",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "cfc344f9"
 }
